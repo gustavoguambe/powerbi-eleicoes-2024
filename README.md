@@ -20,5 +20,3 @@ O objetivo é facilitar a visualização e interpretação dos dados eleitorais,
 - **GitHub** – Publicação e versionamento do projeto.
 
 ---
-
-## 📂 Estrutura do Repositório
