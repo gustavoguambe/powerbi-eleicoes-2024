@@ -19,4 +19,29 @@ O objetivo é facilitar a visualização e interpretação dos dados eleitorais,
 - **Microsoft Excel (.xlsx)** – Preparação e limpeza dos dados.   
 - **GitHub** – Publicação e versionamento do projeto.
 
+
 ---
+
+## 🖼️ Visualização do Dashboard
+![Dashboard Power BI](imagem-dashboard.png)
+
+## 🔍 Principais Indicadores
+- Total de eleitores registados e participantes  
+- Percentagem de abstenção  
+- Resultados por candidato e por província  
+- Comparativo entre eleições anteriores (se disponível)
+
+---
+
+## 📈 Resultados Esperados
+O dashboard oferece uma visão clara e dinâmica dos resultados eleitorais, permitindo:
+- Tomada de decisões informadas.  
+- Análises comparativas por região.  
+- Divulgação transparente dos resultados ao público.
+
+---
+
+## 👤 Autor
+**Gustavo Guambe**  
+📧 [gustavoguamb@gmail.com]  
+ 
