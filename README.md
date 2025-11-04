@@ -1,2 +1,24 @@
-# powerbi-eleicoes-2024
-Dashboard interativo desenvolvido no Power BI para análise dos resultados das eleições presidenciais de 2024 em Moçambique. O projeto inclui os ficheiros de dados (.xlsx) e o ficheiro do relatório Power BI (.pbix), além de um resumo explicativo no README.
+# 🗳️ Power BI – Eleições 2024
+
+## 📊 Descrição do Projeto
+Este projeto apresenta um **dashboard interativo** desenvolvido no **Microsoft Power BI** para análise dos resultados das **Eleições 2024 em Moçambique**.  
+O objetivo é facilitar a visualização e interpretação dos dados eleitorais, destacando tendências, percentagens de votos, taxas de participação e resultados por província.
+
+---
+
+## 🧠 Objetivos
+- Analisar os resultados das eleições de 2024 de forma visual e intuitiva.  
+- Fornecer indicadores de desempenho e participação eleitoral.  
+- Permitir comparações entre diferentes províncias e candidatos.  
+- Demonstrar competências em **Power BI**, **Excel** e **Análise de Dados**.
+
+---
+
+## 🧰 Ferramentas Utilizadas
+- **Power BI Desktop** – Criação do dashboard e visualizações.  
+- **Microsoft Excel (.xlsx)** – Preparação e limpeza dos dados.   
+- **GitHub** – Publicação e versionamento do projeto.
+
+---
+
+## 📂 Estrutura do Repositório
