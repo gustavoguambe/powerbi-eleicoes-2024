@@ -16,7 +16,7 @@ O objectivo é facilitar a visualização e interpretação dos dados eleitorais
 
 ## 🧰 Ferramentas Utilizadas
 - **Power BI Desktop** – Criação do dashboard e visualizações.  
-- **Microsoft Excel (.xlsx)** – Preparação e limpeza dos dados.   
+- **Microsoft Excel** – Preparação e limpeza dos dados.   
 - **GitHub** – Publicação e versionamento do projecto.
 
 
