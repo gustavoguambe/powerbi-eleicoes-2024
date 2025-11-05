@@ -1,15 +1,15 @@
 # 🗳️ Power BI – Eleições 2024
 
-## 📊 Descrição do Projeto
-Este projeto apresenta um **dashboard interativo** desenvolvido no **Microsoft Power BI** para análise dos resultados das **Eleições 2024 em Moçambique**.  
-O objetivo é facilitar a visualização e interpretação dos dados eleitorais, destacando tendências, percentagens de votos, taxas de participação e resultados por província.
+## 📊 Descrição do Projecto
+Este projecto apresenta um **dashboard interactivo** desenvolvido no **Microsoft Power BI** para análise dos resultados das **Eleições presidenciais de 2024 em Moçambique**.  
+O objectivo é facilitar a visualização e interpretação dos dados eleitorais, destacando tendências, percentagens de votos, taxas de participação e resultados por candidato, província e autarquia.
 
 ---
 
-## 🧠 Objetivos
-- Analisar os resultados das eleições de 2024 de forma visual e intuitiva.  
+## 🧠 Objectivos
+- Analisar os resultados das eleições presidenciais de 2024 de forma visual e intuitiva.  
 - Fornecer indicadores de desempenho e participação eleitoral.  
-- Permitir comparações entre diferentes províncias e candidatos.  
+- Permitir comparações entre diferentes províncias, candidatos e autarquias.  
 - Demonstrar competências em **Power BI**, **Excel** e **Análise de Dados**.
 
 ---
@@ -17,7 +17,7 @@ O objetivo é facilitar a visualização e interpretação dos dados eleitorais,
 ## 🧰 Ferramentas Utilizadas
 - **Power BI Desktop** – Criação do dashboard e visualizações.  
 - **Microsoft Excel (.xlsx)** – Preparação e limpeza dos dados.   
-- **GitHub** – Publicação e versionamento do projeto.
+- **GitHub** – Publicação e versionamento do projecto.
 
 
 ---
@@ -28,8 +28,7 @@ O objetivo é facilitar a visualização e interpretação dos dados eleitorais,
 ## 🔍 Principais Indicadores
 - Total de eleitores registados e participantes  
 - Percentagem de abstenção  
-- Resultados por candidato e por província  
-- Comparativo entre eleições anteriores (se disponível)
+- Resultados por candidato, por província e por autarquia  
 
 ---
 
