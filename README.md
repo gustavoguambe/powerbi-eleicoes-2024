@@ -23,7 +23,7 @@ O objectivo é facilitar a visualização e interpretação dos dados eleitorais
 ---
 
 ## 🖼️ Visualização do Dashboard
-![Dashboard Power BI](imagem-dashboard.png)
+![Dashboard Power BI](Dashboard_print.png)
 
 ## 🔍 Principais Indicadores
 - Total de eleitores registados e participantes  
