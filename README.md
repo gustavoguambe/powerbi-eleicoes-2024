@@ -10,14 +10,16 @@ O objectivo é facilitar a visualização e interpretação dos dados eleitorais
 - Analisar os resultados das eleições presidenciais de 2024 de forma visual e intuitiva.  
 - Fornecer indicadores de desempenho e participação eleitoral.  
 - Permitir comparações entre diferentes províncias e candidatos.  
-- Demonstrar competências em **Power BI**, **Excel** e **Análise de Dados**.
+- Demonstrar competências em **Power BI**, **Power Query**, **Excel**, **DAX** e **Análise de Dados**.
 
 ---
 
 ## 🧰 Ferramentas Utilizadas
 - **Power BI Desktop** – Criação do dashboard e visualizações.  
-- **Microsoft Excel** – Preparação e limpeza dos dados.   
-- **GitHub** – Publicação e versionamento do projecto.
+- **Power Query** – Preparação e limpeza dos dados.
+- **DAX** – para cálculos essenciais. 
+- **Microsoft Excel** – Construção da Base de Dados. 
+- **GitHub** – Publicação do projecto.
 
 
 ---
